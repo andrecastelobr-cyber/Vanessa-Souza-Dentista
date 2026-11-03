@@ -1,0 +1,67 @@
+{
+  "_assinatura": "Site Cinematográfico · Labrego IA · LBG-SC-2026-v1",
+  "nome": "Dra. Vanessa Souza",
+  "slug": "vanessa-souza-dentista",
+  "negocio": "Odontologia; cirurgiã-dentista, CRO-RJ 38351",
+  "publico": "Pessoas e famílias da Barra da Tijuca, Rio de Janeiro",
+  "identidade": {
+    "cores": {
+      "fundo": "#EAF2F2",
+      "texto": "#174B4A",
+      "acento": "#D97870"
+    },
+    "fontes": {
+      "titulo": "Cormorant Garamond",
+      "texto": "Figtree"
+    },
+    "clima": ["acolhedor", "contemporâneo", "sereno"],
+    "tema": "claro"
+  },
+  "logo": "usar assinatura tipográfica Dra. Vanessa Souza",
+  "copy": {
+    "frase_abertura": "Cuidado que começa no seu sorriso.",
+    "diferenciais": [
+      "Dentística",
+      "Ortodontia preventiva e interceptativa",
+      "Ortopedia facial",
+      "Odontologia do sono"
+    ],
+    "textos_prontos": "Atendimento na Avenida das Américas, 500, Bloco 21, Entrada D, Sala 210, Shopping Downtown, Barra da Tijuca, Rio de Janeiro. CRO-RJ 38351. A informação sobre avaliações é de 12 opiniões no Doctoralia, com média de 5/5, conforme fornecido pela cliente.",
+    "depoimentos_reais": []
+  },
+  "avaliacoes": {
+    "plataforma": "Doctoralia",
+    "quantidade": 12,
+    "media": "5/5",
+    "url": "https://www.doctoralia.com.br/vanessa-souza-2/dentista/rio-de-janeiro",
+    "origem": "informação fornecida pela cliente e conferida no perfil Doctoralia"
+  },
+  "referencias": ["design-brief.md", "https://linktr.ee/vanessasouza6885"],
+  "whatsapp": {
+    "numero": "",
+    "url": "https://api.whatsapp.com/message/QSOSAD7EDS2BG1?app_absent=0&autoload=1",
+    "mensagem": "Olá, gostaria de informações sobre uma consulta com a Dra. Vanessa Souza."
+  },
+  "instagram": "https://www.instagram.com/dra.vanessadesouza",
+  "email_contato": "",
+  "formulario": "não incluído; os canais informados são WhatsApp e Instagram",
+  "endereco": "Avenida das Américas, 500, Bloco 21, Entrada D, Sala 210, Shopping Downtown, Barra da Tijuca, Rio de Janeiro - RJ",
+  "secoes": ["abertura cinematográfica", "cuidados", "a consulta", "avaliações", "contato e localização"],
+  "credito_rodape": true,
+  "conceito": "Uma peça translúcida em forma de dente conduz o olhar da luz suave do consultório até os detalhes do cuidado odontológico.",
+  "midia_existente": {
+    "origem": "Vanessa Souza/public/assets",
+    "reutilizar": [
+      "assets/world/scene-01.mp4",
+      "assets/world/scene-01-mobile.mp4",
+      "assets/world/scene-01-poster.png",
+      "assets/world/scene-01-mobile-poster.png",
+      "assets/brand/clinic-room.png",
+      "assets/brand/enamel-detail.png",
+      "assets/brand/texture.png",
+      "assets/brand/icons.png",
+      "assets/brand/og-card.jpg"
+    ],
+    "custo_nova_geracao": 0
+  }
+}
