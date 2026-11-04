@@ -48,7 +48,7 @@
   "endereco": "Avenida das Américas, 500, Bloco 21, Entrada D, Sala 210, Shopping Downtown, Barra da Tijuca, Rio de Janeiro - RJ",
   "secoes": ["abertura cinematográfica", "cuidados", "a consulta", "avaliações", "contato e localização"],
   "credito_rodape": true,
-  "conceito": "Uma peça translúcida em forma de dente conduz o olhar da luz suave do consultório até os detalhes do cuidado odontológico.",
+  "conceito": "Um percurso lento pelo consultório, da entrada à cadeira de atendimento iluminada pela janela, com foco no espaço acolhedor e no cuidado individual.",
   "midia_existente": {
     "origem": "Vanessa Souza/public/assets",
     "reutilizar": [
@@ -62,6 +62,7 @@
       "assets/brand/icons.png",
       "assets/brand/og-card.jpg"
     ],
-    "custo_nova_geracao": 0
+    "custo_nova_geracao": "US$ 1.7348 (quadro-chave US$ 0.1348 + vídeo US$ 1.6000)",
+    "conceito_video": "Percurso contínuo pelo consultório, sem dente como objeto visual e sem objetos girando."
   }
 }
