@@ -15,8 +15,8 @@ O QR code temporário da prévia fica na raiz do projeto e não faz parte dos ar
 
 ## Site publicado
 
-https://andrecastelobr-cyber.github.io/Vanessa-Souza-Dentista/
+https://dra-vanessa-souza.vercel.app/
 
-O GitHub Actions publica automaticamente o conteúdo de `site/` a cada atualização na branch `main`. Não é necessário instalar Node.js ou Bun nem executar uma etapa de build.
+O Vercel publica automaticamente o conteúdo de `site/` quando a branch `main` do repositório conectado é atualizada. O espelho do GitHub Pages continua disponível em https://andrecastelobr-cyber.github.io/Vanessa-Souza-Dentista/.
 
 O vídeo original e os arquivos fonte estão em `fonte/`; a página usa os quadros WebP em `site/assets/frames/`. Os canais de contato configurados são WhatsApp e Instagram.
